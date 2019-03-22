@@ -1,9 +1,9 @@
 # Home-Depot-Product-Search-Relevance
-CSC 575 Final Project (Kaggle) -- Winter 2019 Learning to Rank
-A group project with @ Joshua Smith & Wenyi (Alex) Yan
+@ Joshua Smith @ Wenyi (Alex) Yan on March 19, 2019
 
-*Public Score:  0.47453 [First Place in Competition]* <br/>
-*Private Score: 0.47336 [First Place in Competition]* <br/>
+>Tool: Python<br/>
+Public Score:  0.47453 [First Place in Competition]* <br/>
+Private Score: 0.47336 [First Place in Competition]* <br/>
 
 
 ### Introduction 
